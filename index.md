@@ -12,7 +12,7 @@ layout: default
 
 # Research
 -------------------------------------------
-## _Published or Accepted for Publication_
+## _Publication_
 1. ["Are More Children Better than One? Evidence from a Lab Experiment of Decision Making"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 **China Economic Review**, Volume 69, October 2021 <br>
