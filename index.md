@@ -8,6 +8,7 @@ layout: default
 
 - My research interest spans development economics, labor economics, political economy, and Chinese economy. I'm also broadly interested in other applied research topics.
 
+- The pronunciation of my name can be found here(https://oluxiwen.github.io/pronouncing-chinese-names-guide/).
 <br>
 
 # Research
