@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 -------------------------------------------
-- I’m a third-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pittsburgh, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23@pitt.edu](mailto:yuq23@pitt.edu).
+- I’m a third-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23@pitt.edu](mailto:yuq23@pitt.edu).
 
 - My research interest spans development economics, labor economics, political economy, and Chinese economy. I'm also broadly interested in other applied research topics.
 
@@ -24,14 +24,14 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     
 
 ## _Working Papers_
-2. ["Government Land Sales as a Response to Negative Economic Shocks in China"] <br>
+2. "Government Land Sales as a Response to Negative Economic Shocks in China" <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
     This paper examines how local governments in China use land sales to respond to negative economic shocks, with a focus on the period of export slowdown during the mid-2010s. Using a shift-share design, I find that city governments with greater exposure to the export slowdown had higher land sales revenue, primarily driven by increased sales of residential and commercial land intended for real estate development. This effect is more pronounced for cities with newly-appointed leaders. I provide evidence that local governments used real estate development to buffer the adverse shocks during the slowdown period as land sales (i) increased the government's land tax revenue and corporate income tax revenue collected from real estate firms and (ii) boosted employment in the construction sector to buffer the employment loss in the manufacturing sector. However, the longer-run analysis suggests higher real estate risks in these cities with greater export slowdown exposure, evidenced by a higher probability of incidents of homebuyers' protest at the stalled construction due to developers' over-debt situation. Furthermore, I show that local governments are more inclined to use land sales to respond to more widespread shocks, such as the COVID shock, than to regional shocks, such as floods. 
     <br><br/></div>
 
-3. ["The Shattered Iron Rice Bowl and Youth's College Decision: Evidence from China's State-owned Enterprises Reform"] <br>
+3. "The Shattered Iron Rice Bowl and Youth's College Decision: Evidence from China's State-owned Enterprises Reform" <br>
 <small>[ <a href="#/" onclick="visib('soe-edu')">Abstract</a> ]</small>
 
     <div id="soe-edu" style="display: none; text-align: left; line-height: 1.5" >
