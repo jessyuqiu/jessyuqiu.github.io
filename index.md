@@ -4,88 +4,44 @@ layout: default
 
 # About Me
 -------------------------------------------
-- I’m a fifth-year Ph.D. student in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [laiwz@umd.edu](mailto:laiwz@umd.edu).
+- I’m a third-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pittsburgh, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23@pitt.edu](mailto:yuq23@pitt.edu).
 
-- My research interest spans political economy, personnel economics of the state, and Chinese economy. I'm also broadly interested in other applied research topics.
+- My research interest spans development economics, labor economics, political economy, and Chinese economy. I'm also broadly interested in other applied research topics.
 
 <br>
 
 # Research
 -------------------------------------------
 ## _Published or Accepted for Publication_
-1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
+1. ["Are more children better than one? Evidence from a lab experiment of decision making"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-accepted by **Journal of Law and Economics** <br>
-<small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> ]</small>
+**China Economic Review**, Volume 69, October 2021 <br>
+<small>[ <a href="#/" onclick="visib('children')">Abstract</a> ]</small>
 
-    <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
-    What is the impact of anti-corruption efforts on entry into bureaucratic jobs? This paper approaches this question theoretically and empirically through the lens of China's anti-corruption campaign since 2013. We leverage a novel dataset of national civil service exams. Exploiting assignment and timing variations in anti-corruption inspections on government departments, our difference-in-differences estimate shows that a department had significantly fewer applicants following an inspection. We provide evidence that the decline in bureaucratic entry has occurred since the campaign lowered the (expected) returns from bureaucratic jobs by (i) improving corruption detection and (ii) constraining power likely to be abused. In contrast, we do not find evidence that the campaign affected legal income. Furthermore, simulation exercises suggest that after the anti-corruption campaign, incoming bureaucrats may have lower ability but higher prosociality than before.
+    <div id="children" style="display: none; text-align: left; line-height: 1.5" >
+    This paper examines the impacts of siblings on people's social preference, risk attitude and time preference with a data set from a large-scale lab experiment. Employing the variation of fine rates under One-Child Policy for excess birth in different regions as instrument to address the endogeneity of whether having siblings, we find that sibling's role mainly focuses on shaping people's social preference that subjects with siblings demand less as responders in ultimatum game and behave more cooperatively in sequential prisoner's dilemma. This conclusion survives through several robustness checks. Our further result suggests that more sibling interactions and less parental expectations are two potential mechanisms through which siblings play a role in making people more prosocial. Our findings point to a positive externality along with Two-Child Policy which is widely neglected in both policy evaluation and relevant theory such as quantity-quality theory, and provide implications for the fertility policy such as the recent Three-Child Policy in China and beyond.
     <br><br/></div>
     
-1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
-with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-**Journal of Population Economics**, Vol.35, July 2022 <br>
-<small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
-<small>Media coverage: [ [Caixin](https://cec.blog.caixin.com/archives/262217) ]</small>
-
-    <div id="housing-market-divorce" style="display: none; text-align: left; line-height: 1.5" >
-    In China’s regulated housing markets, a married couple may choose strategically to divorce in order to purchase more houses and/or purchase with more favorable financial conditions. Our study examines the propensity for strategic divorce induced by housing market regulations in China. To overcome the difficulty of using conventional divorce data to distinguish between a “true” divorce and a strategic (or a “fake”) divorce, we design an identification strategy using data on internet searches for divorce- and marriage-related keywords in 32 Chinese major cities from 2009 through 2016. Our difference-in-differences estimates provide robust evidence that housing market regulations significantly increase the propensity for strategic divorce. Our results also show that the increase in the propensity for strategic divorce is weaker in cities with higher male–female ratios and with stronger Confucian ideologies. These findings point to the role that housing market regulations play in distorting a family’s choices, as well as to the importance for policymakers to consider unintended impacts of regulations.
-    <br><br/></div>
-
-
-2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
-with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
-**China Economic Review**, Vol.71, February 2022 <br>
-<small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [Early Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small>
-
-    <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
-    In response to the outbreak of coronavirus disease 2019 (COVID-19), there have been substantial variations in policy response and performance for disease control and prevention within and across nations. It remains unclear to what extent these variations may be explained by bureaucrats' professionalism, as measured by their educational background or work experience in public health or medicine. To investigate the effects of officials' professionalism on their response to and performance in fighting the COVID-19 pandemic, we collect information from the résumés of government and Party officials in 294 Chinese cities, and integrate this information with other data sources, including weather conditions, city characteristics, COVID-19-related policy measures, and health outcomes. We show that, on average, cities whose top officials had public health or medical backgrounds (PHMBGs) had a significantly lower infection rate than cities whose top officials lacked such backgrounds. We test the mechanisms of these effects and find that cities whose officials had a PHMBG implemented community closure more rapidly than those lacked such backgrounds. Our findings highlight the importance of professionalism in combating the pandemic.
-    <br><br/></div>
-
 
 ## _Working Papers_
-2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
-revise & resubmit at **Journal of Economic Behavior and Organization** <br>
-<small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
+2. ["Government Land Sales as a Response to Negative Economic Shocks in China"](/assets/pdfs/land_draft.pdf) <br>
+<small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
-    <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
-    Conventional wisdom and evidence from democracies suggest that more education should increase voter turnout. This paper revisits this issue by analyzing turnout in China's rural elections. Employing an instrumental variable strategy, I find that more education reduces turnout in rural elections. I provide suggestive evidence that more educated people may face higher opportunity costs of voting, which explain about 44% of cross-province variations in education-turnout links. I also discuss the role of other factors, including liberal attitudes, Confucian culture, and election stakes.
+    <div id="land" style="display: none; text-align: left; line-height: 1.5" >
+    This paper examines how local governments in China use land sales to respond to negative economic shocks, with a focus on the period of export slowdown during the mid-2010s. Using a shift-share design, I find that city governments with greater exposure to the export slowdown had higher land sales revenue, primarily driven by increased sales of residential and commercial land intended for real estate development. This effect is more pronounced for cities with newly-appointed leaders. I provide evidence that local governments used real estate development to buffer the adverse shocks during the slowdown period as land sales (i) increased the government's land tax revenue and corporate income tax revenue collected from real estate firms and (ii) boosted employment in the construction sector to buffer the employment loss in the manufacturing sector. However, the longer-run analysis suggests higher real estate risks in these cities with greater export slowdown exposure, evidenced by a higher probability of incidents of homebuyers' protest at the stalled construction due to developers' over-debt situation. Furthermore, I show that local governments are more inclined to use land sales to respond to more aggregate shocks, such as the COVID shock, than to regional shocks, such as floods. 
     <br><br/></div>
 
-3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
-with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
-submitted <br>
-<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
+3. ["The Shattered Iron Rice Bowl and Youth's College Decision: Evidence from China's State-owned Enterprises Reform"](/assets/pdfs/soeedu_draft.pdf) <br>
+<small>[ <a href="#/" onclick="visib('soe-edu')">Abstract</a> ]</small>
 
-    <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
-    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
+    <div id="soe-edu" style="display: none; text-align: left; line-height: 1.5" >
+    How would a public sector downsizing reform affect the educational investment of potential job market entrants? This paper empirically investigates this question through the lens of China's state-owned enterprises reform (SOE reform) starting in 1998, which led to a substantial reduction in SOE employment. Leveraging regional and cohort variations in the SOE reform, my difference-in-differences estimate shows that the SOE reform significantly increases the likelihood of high school graduates obtaining a college degree. I provide evidence that this increase in college attainment after the reform can be attributed to the SOE reform's impact on increasing the likelihood of college graduates being employed and the college wage premium. Furthermore, the increase in college graduates’ likelihood of being employed is observed in both the state and non-state sectors, while the increase in the college wage premium is primarily attributed to the non-state sector. 
     <br><br/></div>
 
-4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
-submitted <br>
-<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
-    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
-    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
-    <br><br/></div>
-
-5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
-with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) <br>
-reject & resubmit at **Journal of Economic Growth** <br>
-<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
-
-    <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
-    We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
-    <br><br/></div>
-   
 
 ## _Work in Progress_
-1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
-<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> | [Poster](/assets/pdfs/poster_taiwan.pdf) ] </small>
 
-    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
-    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
-    <br><br/></div>
 
 
 [//]: This java script is the button to show abstract
