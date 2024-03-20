@@ -43,7 +43,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 ## _Work in Progress_
 4.  "Industrial Labor Relations in Urban China" <be>
-with [Weizheng Lai]([https://laiwz.github.io/](https://laiwz.github.io/)) <br>
+with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 
 [//]: This java script is the button to show abstract
