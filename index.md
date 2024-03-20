@@ -42,7 +42,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 
 ## _Work in Progress_
-4.  "Industrial Labor Relations in Urban China" <be>
+4.  "Industrial Labor Relations in Urban China" <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 
