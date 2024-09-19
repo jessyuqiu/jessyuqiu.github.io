@@ -25,7 +25,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     
 
 ## _Working Papers_
-2. ["Government Land Sales as a Response to Negative Economic Shocks in China"](/assets/pdfs/land.pdf) <br>
+2. ["Government Land Sales as a Response to Negative Economic Shocks in China"] <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
