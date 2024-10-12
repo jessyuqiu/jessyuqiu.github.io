@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LX0YQPYJT2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-LX0YQPYJT2');
+</script>
 # About Me
 -------------------------------------------
 - I’m a fourth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23@pitt.edu](mailto:yuq23@pitt.edu).
