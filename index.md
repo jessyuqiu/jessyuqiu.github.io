@@ -51,7 +51,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 
 ## _Work in Progress_
-4.  "Industrial Labor Relations in Urban China" <br>
+4.  "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 
