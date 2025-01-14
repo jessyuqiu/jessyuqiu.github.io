@@ -23,8 +23,8 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-1. ["Building Through Downturns: Export Slowdown and Construction in China"] <br>
-<small>[ <a href="#/" onclick="visib('construction_Qiu_202501')">Abstract</a> ]</small>
+1. ["Building Through Downturns: Export Slowdown and Construction in China"](assets/pdfs/Construction_Qiu_202501.pdf) <br>
+<small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
            Construction projects are used to absorb unemployed workers during economic downturns in many countries. This paper studies how city governments in China use construction job creation to respond to the mid-2010s export slowdown that caused a significant decline in manufacturing employment. I first document that cities more exposed to the export slowdown experienced an increase in construction employment, which increased the likelihood of city leaders being promoted. Meanwhile, cities led by leaders with stronger career incentives had greater boosts in construction employment. This increase in construction employment can be due to increased government land sales: (i) residential and commercial land sales bring real estate projects, and (ii) land sales revenue enables the government to finance more infrastructure projects. However, in the longer term, this land sales strategy is associated with housing oversupply and higher real estate risk.    
