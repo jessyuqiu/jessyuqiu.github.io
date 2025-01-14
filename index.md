@@ -27,10 +27,10 @@ layout: default
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
-           Construction projects are used to absorb unemployed workers during economic downturns in many countries. This paper studies how city governments in China use construction job creation to respond to the mid-2010s export slowdown that caused a significant decline in manufacturing employment. I first document that cities more exposed to the export slowdown experienced an increase in construction employment, which increased the likelihood of city leaders being promoted. Meanwhile, cities led by leaders with stronger career incentives had greater boosts in construction employment. This increase in construction employment can be due to increased government land sales: (i) residential and commercial land sales bring real estate projects, and (ii) land sales revenue enables the government to finance more infrastructure projects. However, in the longer term, this land sales strategy is associated with housing oversupply and higher real estate risk.    
+           This paper studies how city governments in China use construction job creation to address the mid-2010s export slowdown, which significantly reduced manufacturing employment, and explores its longer-term effects. I document that cities more exposed to the export slowdown experienced an increase in construction employment. This effect is particularly prominent in cities under leaders with stronger career incentives, as construction employment creation is associated with higher promotion probabilities. One mechanism to create construction projects is through government land sales: (i) residential and commercial land sales bring real estate projects, and (ii) land sales revenue finance infrastructure projects. However, in the longer term, this land sales strategy is associated with housing oversupply and higher real estate risks.    
     <br><br/></div>
 
-2. "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" <br>
+2. ["From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China"](https://laiwz.github.io/assets/pdfs/unrest_draft.pdf) <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou')">Abstract</a> ]</small>
 
