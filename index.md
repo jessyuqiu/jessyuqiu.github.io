@@ -49,13 +49,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     This paper examines the impacts of siblings on people's social preference, risk attitude and time preference with a data set from a large-scale lab experiment. Employing the variation of fine rates under One-Child Policy for excess birth in different regions as instrument to address the endogeneity of whether having siblings, we find that sibling's role mainly focuses on shaping people's social preference that subjects with siblings demand less as responders in ultimatum game and behave more cooperatively in sequential prisoner's dilemma. This conclusion survives through several robustness checks. Our further result suggests that more sibling interactions and less parental expectations are two potential mechanisms through which siblings play a role in making people more prosocial. Our findings point to a positive externality along with Two-Child Policy which is widely neglected in both policy evaluation and relevant theory such as quantity-quality theory, and provide implications for the fertility policy such as the recent Three-Child Policy in China and beyond.
     <br><br/></div>
 
-## _Work In Progress_
-1. "The Shattered Iron Rice Bowl and Youth's College Decision: Evidence from China's State-owned Enterprises Reform" <br>
-<small>[ <a href="#/" onclick="visib('soe-edu')">Abstract</a> ]</small>
 
-    <div id="soe-edu" style="display: none; text-align: left; line-height: 1.5" >
-    How would a public sector downsizing reform affect the educational investment of potential job market entrants? This paper empirically investigates this question through the lens of China's state-owned enterprises reform (SOE reform) starting in 1998, which led to a substantial reduction in SOE employment. Leveraging regional and cohort variations in the SOE reform, my difference-in-differences estimate shows that the SOE reform significantly increases the likelihood of high school graduates obtaining a college degree. I provide evidence that this increase in college attainment after the reform can be attributed to the SOE reform's impact on increasing the likelihood of college graduates being employed and the college wage premium. Furthermore, the increase in college graduates’ likelihood of being employed is observed in both the state and non-state sectors, while the increase in the college wage premium is primarily attributed to the non-state sector. 
-    <br><br/></div>
 
 [//]: This java script is the button to show abstract
 <script>
