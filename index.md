@@ -13,7 +13,7 @@ layout: default
 
 # About Me
 -------------------------------------------
-- I’m a fourth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
+- I’m a fifth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
 
 - My research interests lie in development economics, labor economics, and political economy. I'm also broadly interested in other applied research topics.
 
@@ -38,6 +38,9 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
            There are growing concerns that relaxed migration policy may undermine social stability. We study this issue by estimating the causal effect on labor unrest of China's recent reform to its internal migration institutions, which facilitated permanent settlement for migrants in small and medium sized cities. Exploiting variation due to the reform's population cutoff rule, we find that the reform significantly reduced labor unrest. We suggest that one important mechanism behind our finding is the enhancement of migrants' settlement intentions, which makes migrants less engaged in unrest to secure the opportunity of settlement offered by the reform. We provide evidence that the reform increased migrants' likelihood of remaining in their destinations. Through a novel causal mediation analysis, we find that heightened settlement intentions can explain 61 percent of decreased labor unrest due to the reform in the immediate term and 27 percent in the long term. We find no evidence that the reform led to compositional changes among migrants, delivery of benefits to migrants, or tighter government social control. Our results highlight how migration policy can influence stability by shaping migrants' attachment to their destinations. 
     <br><br/></div>
 
+## _Work in Progress_
+1.  ["Representation and Resource Allocation Before and After the 17th Amendment"] <br>
+with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), [Lauren Olson](https://www.linkedin.com/in/lauren-olson-62837329b/) <br>
 
 ## _Publication_
 1. ["Are More Children Better than One? Evidence from a Lab Experiment of Decision Making"](https://doi.org/10.1016/j.chieco.2021.101653) <br>
