@@ -15,7 +15,7 @@ layout: default
 -------------------------------------------
 - I’m a fifth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
 
-- My research interests lie in development economics, labor economics, and political economy. I'm also broadly interested in other applied research topics.
+- My research interests lie in development economics, labor economics, and political economy.
 
 - The pronunciation of my name can be found [here](https://oluxiwen.github.io/pronouncing-chinese-names-guide/).
 <br>
