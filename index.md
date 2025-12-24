@@ -42,6 +42,8 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 1.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
 with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and [Lauren Olson](https://www.linkedin.com/in/lauren-olson-62837329b/) <br>
 
+2. "Intergenerational Return to Local Offices" <br>
+
 ## _Publication_
 1. ["Are More Children Better than One? Evidence from a Lab Experiment of Decision Making"](https://doi.org/10.1016/j.chieco.2021.101653) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
