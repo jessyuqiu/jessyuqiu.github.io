@@ -23,11 +23,11 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-1. ["Building Through Downturns: Export Slowdown and Construction in China"](assets/pdfs/Construction_Qiu_202501.pdf) <br>
+1. ["Building Through Downturns: Export Slowdown and Construction in China"](assets/pdfs/construction_YQ_202601.pdf) <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
-           This paper studies how city governments in China use construction job creation to address the mid-2010s export slowdown, which significantly reduced manufacturing employment, and explores its longer-term effects. I document that cities more exposed to the export slowdown experienced an increase in construction employment. This effect is particularly prominent in cities under leaders with stronger career incentives, as construction employment creation is associated with higher promotion probabilities. One mechanism to create construction projects is through government land sales: (i) residential and commercial land sales bring real estate projects, and (ii) land sales revenue finance infrastructure projects. However, in the longer term, this land sales strategy is associated with housing oversupply and higher real estate risks.    
+           How do local governments respond to negative labor market shocks? Using variation in Chinese cities' exposure to the mid-2010s export slowdown, this paper shows that cities more exposed to the shock experience large manufacturing employment losses followed by increases in construction employment. This construction response is stronger in cities led by officials with stronger career incentives and in cities experiencing greater labor unrest, and it is accompanied by increased emphasis on employment in government work reports. The results suggest that construction serves as a short-run employment stabilization tool. I further show that one mechanism to create construction projects is through government land sales, which expand real estate development and infrastructure construction. While this strategy mitigates employment losses in the short run, it is associated with higher real estate risks in the longer term.
     <br><br/></div>
 
 2. ["Migrant Integration and Social Stability: Evidence from China"](https://laiwz.github.io/assets/pdfs/unrest_draft.pdf) <br>
