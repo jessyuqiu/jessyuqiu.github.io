@@ -15,7 +15,7 @@ layout: default
 -------------------------------------------
 - I’m a fifth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
 
-- My research interests lie in development economics, labor economics, and political economy.
+- My research interests lie in development economics, labor economics, economic history, and political economy.
 
 - The pronunciation of my name can be found [here](https://oluxiwen.github.io/pronouncing-chinese-names-guide/).
 <br>
@@ -23,11 +23,11 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-1. ["Building Through Downturns: Export Slowdown and Construction in China"](assets/pdfs/construction_YQ_202601.pdf) <br>
+1. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
-           How do local governments respond to negative labor market shocks? Using variation in Chinese cities' exposure to the mid-2010s export slowdown, this paper shows that cities more exposed to the shock experience large manufacturing employment losses followed by increases in construction employment. This construction response is stronger in cities led by officials with stronger career incentives and in cities experiencing greater labor unrest, and it is accompanied by increased emphasis on employment in government work reports. The results suggest that construction serves as a short-run employment stabilization tool. I further show that one mechanism to create construction projects is through government land sales, which expand real estate development and infrastructure construction. While this strategy mitigates employment losses in the short run, it is associated with higher real estate risks in the longer term.
+           This paper studies construction as an employment stabilization tool and its longer-run consequences. Exploiting cross-city variation in exposure to China’s mid-2010s export slowdown, I find that more exposed cities experience substantial manufacturing employment losses followed by increases in construction employment. This construction response is stronger in cities led by officials with stronger career incentives and with larger increases in labor unrest, and it is accompanied by increased emphasis on employment in government work reports. Similar construction responses arise following automation shocks that displace manufacturing workers without reducing economic output, indicating construction expansion as a response to employment pressure. One mechanism to expand construction is through government land sales that facilitate real estate and infrastructure projects. While this strategy mitigates short-run employment losses, it is associated with higher real estate risk in the longer term.
     <br><br/></div>
 
 2. ["Migrant Integration and Social Stability: Evidence from China"](https://laiwz.github.io/assets/pdfs/unrest_draft.pdf) <br>
