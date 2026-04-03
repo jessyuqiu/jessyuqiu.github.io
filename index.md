@@ -23,14 +23,23 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-1. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
+1. ["Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office"] <br>
+<small>[ <a href="#/" onclick="visib('office')">Abstract</a> ]</small>
+
+    <div id="office" style="display: none; text-align: left; line-height: 1.5" >
+           
+    <br><br/></div>
+
+
+
+2. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
     <div id="land" style="display: none; text-align: left; line-height: 1.5" >
            This paper studies construction as an employment stabilization tool and its longer-run consequences. Exploiting cross-city variation in exposure to China’s mid-2010s export slowdown, I find that more exposed cities experience substantial manufacturing employment losses followed by increases in construction employment. This construction response is stronger in cities led by officials with stronger career incentives and with larger increases in labor unrest, and it is accompanied by increased emphasis on employment in government work reports. Similar construction responses arise following automation shocks that displace manufacturing workers without reducing economic output, indicating construction expansion as a response to employment pressure. One mechanism to expand construction is through government land sales that facilitate real estate and infrastructure projects. While this strategy mitigates short-run employment losses, it is associated with higher real estate risk in the longer term.
     <br><br/></div>
 
-2. ["Migrant Integration and Social Stability: Evidence from China"](https://laiwz.github.io/assets/pdfs/unrest_draft.pdf) <br>
+3. ["Migrant Integration and Social Stability: Evidence from China"](https://laiwz.github.io/assets/pdfs/unrest_draft.pdf) <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou')">Abstract</a> ]</small>
 
@@ -42,7 +51,8 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 1.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
 with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and [Lauren Olson](https://www.linkedin.com/in/lauren-olson-62837329b/) <br>
 
-2. "Intergenerational Return to Local Offices" <br>
+2. "The Economic and Political Impacts of the Korean War in Japan" <br>
+with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 ## _Publication_
 1. ["Are More Children Better than One? Evidence from a Lab Experiment of Decision Making"](https://doi.org/10.1016/j.chieco.2021.101653) <br>
