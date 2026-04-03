@@ -23,7 +23,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-1. ["Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office"] <br>
+1. "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 <small>[ <a href="#/" onclick="visib('office')">Abstract</a> ]</small>
 
     <div id="office" style="display: none; text-align: left; line-height: 1.5" >
