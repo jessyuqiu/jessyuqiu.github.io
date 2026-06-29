@@ -42,7 +42,7 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 1. "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 
 2.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
-with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and [Lauren Olson](https://www.linkedin.com/in/lauren-olson-62837329b/) <br>
+with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and Lauren Olson <br>
 
 <!--
 2. "The Economic and Political Impacts of the Korean War in Japan" <br>
