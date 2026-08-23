@@ -25,7 +25,7 @@ layout: default
 # Research
 -------------------------------------------
 ## JMP
-"Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
+- "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 
 ## Working Papers
 1. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
