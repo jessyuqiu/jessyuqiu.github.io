@@ -27,7 +27,7 @@ layout: default
 ## JMP
 "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 
-## _Working Papers_
+## Working Papers
 1. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
 
@@ -43,7 +43,7 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
            Contemporary public discourse often raises concerns that migration may threaten social stability, fueling support for exclusionary integration policies. We study this issue by estimating the causal effect of China's recent reform of its internal migration institutions on labor unrest (e.g., strikes). Exploiting variation from the reform's population-based discontinuity rule, we find that the reform significantly reduced labor unrest. A key mechanism is migrants' enhanced settlement intentions: to secure the opportunity of settlement offered by the reform, migrants have weaker incentives to engage in unrest. We show that the reform increased the likelihood of migrants remaining in migration destinations, and through a novel causal mediation analysis, we find that enhanced settlement intentions can explain 63 percent of the reform's effect on labor unrest. Moreover, the reform's effect on labor unrest is more pronounced in places where migrants live closer to their origins or are culturally similar to natives, making them more inclined to stay once the reform lowers institutional integration barriers. We find no evidence that the reform changed migrant composition, significantly improved migrants’ wellbeing, or prompted governments to tighten social control.
     <br><br/></div>
 
-## _Work in Progress_
+## Work in Progress
 1. "Geopolitical Tensions, Economic Opportunity, and Political Responses: Evidence from Japan" <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 
@@ -55,7 +55,7 @@ with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montr
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 -->
 
-## _Publication_
+## Publication
 1. ["Are More Children Better than One? Evidence from a Lab Experiment of Decision Making"](https://doi.org/10.1016/j.chieco.2021.101653) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 **China Economic Review**, Volume 69, October 2021 <br>
