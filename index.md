@@ -13,15 +13,20 @@ layout: default
 
 # About Me
 -------------------------------------------
-- I’m a fifth-year Ph.D. student in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV_YQ.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
+- I’m a Ph.D. candidate in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). Prior to Pitt, I obtained my B.A. in economics and B.S. in mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV_YQ.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
 
 - My research interests lie in economic development, labor, political economy, and economic history.
 
 - The pronunciation of my name can be found [here](https://oluxiwen.github.io/pronouncing-chinese-names-guide/).
+
+- *I'm on the 2026-2027 job market.*
 <br>
 
 # Research
 -------------------------------------------
+## _JMP_
+"Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
+
 ## _Working Papers_
 1. ["Building Jobs: Employment Stabilization and Construction in China"](assets/pdfs/Construction_YQ.pdf) <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> ]</small>
@@ -39,7 +44,8 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
     <br><br/></div>
 
 ## _Work in Progress_
-1. "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
+1. "Geopolitical Tensions, Economic Opportunity, and Political Responses: Evidence from Japan" <br>
+with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 2.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
 with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and Lauren Olson <br>
