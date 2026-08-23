@@ -7,24 +7,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
 
-html {
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
-}
-
-body {
-  font-family: "Google Sans Flex", Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.6;
-}
-
-/* Desktop / tablet */
-@media screen and (min-width: 768px) {
-  body {
-    font-size: 17px;
-  }
-}
-
 .wrapper {
   width: 900px;
 }
