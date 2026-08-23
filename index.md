@@ -23,7 +23,7 @@ layout: default
 <br>
 
 # Research
-## JMP
+## Job Market Paper
 - "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 
 <br>
