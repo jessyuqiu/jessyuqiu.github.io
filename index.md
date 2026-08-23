@@ -14,7 +14,7 @@ layout: default
 <!--# About Me-->
 I’m a Ph.D. candidate in [economics](https://econ.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/). My CV is [here](/assets/pdfs/CV_YQ.pdf). My email address is [yuq23{at}pitt.edu](mailto:yuq23@pitt.edu).
 
-My research interests lie in economic development, labor, political economy, and economic history.
+My research interests lie in **economic development, labor, political economy, and economic history**.
 
 The pronunciation of my name can be found [here](https://oluxiwen.github.io/pronouncing-chinese-names-guide/).
 
