@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching
+---
+
 # Teaching
 - Instructor, Intro Microeconomic Theory, 2024, 2025
 - TA, Health Economics, 2024
