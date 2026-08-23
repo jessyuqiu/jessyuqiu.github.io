@@ -29,8 +29,8 @@ sidebar:
     link: https://scholar.google.com/citations?user=sG-ifbMAAAAJ&hl=en
   - name: Research
     link: /
-  #- name: Resources
-  #  link: /resources
+  - name: Teaching
+    link: /teaching
   #- name: Notes
   #  link: /notes
   #- name: GitHub
