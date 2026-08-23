@@ -24,7 +24,7 @@ layout: default
 
 # Research
 -------------------------------------------
-## _JMP_
+## JMP
 "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 
 ## _Working Papers_
