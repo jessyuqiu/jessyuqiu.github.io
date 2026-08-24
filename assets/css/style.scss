@@ -25,6 +25,21 @@ body {
   }
 }
 
+/* Wider layout only on desktop */
+@media screen and (min-width: 961px) {
+  .wrapper {
+    width: 900px;
+  }
+
+  .sidebar {
+    width: 260px;
+  }
+
+  section {
+    width: 550px;
+  }
+}
+
 .img-circle {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
