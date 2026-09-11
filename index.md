@@ -50,11 +50,12 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 1. "Geopolitical Tensions, Economic Opportunity, and Political Responses: Evidence from Japan" <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 
-2.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
+2. "Bureaucratic Quality and Local Industrial Development" <br>
+with [Muhammad Yasir Khan](https://sites.google.com/view/yasirkhan/home) and [S. K. Ritadhi](https://sites.google.com/view/skritadhi/home) <br>
+
+3.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
 with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and Lauren Olson <br>
 
-3. "Bureaucratic Quality and Local Industrial Development" <br>
-with [Muhammad Yasir Khan](https://sites.google.com/view/yasirkhan/home), and [S. K. Ritadhi](https://sites.google.com/view/skritadhi/home) <br>
 
 
 <br>
