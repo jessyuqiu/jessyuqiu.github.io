@@ -47,7 +47,7 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 <br>
 
 ## Work in Progress
-1. "Geopolitical Tensions, Economic Opportunity, and Political Responses: Evidence from Japan" <br>
+1. "Geopolitical Tensions and Economic Opportunity: Evidence from Japan" <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 
 2. "Bureaucratic Quality and Local Industrial Development" <br>
