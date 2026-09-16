@@ -48,7 +48,7 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
 with [Weizheng Lai](https://laiwz.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('japan')">Abstract</a> ]</small>
 
-    <div id="hukou" style="display: none; text-align: left; line-height: 1.5" >
+    <div id="japan" style="display: none; text-align: left; line-height: 1.5" >
           Geopolitical tensions may reallocate economic opportunities across countries. We study the economic and political impacts of such shifts, drawing upon the Korean War (1950--1953), one of the most intense geopolitical conflicts in recent history. Using newly digitized data, we show that US military procurement in Japan during the Korean War led to employment growth, labor relocation, and increases in labor productivity in Japan. Meanwhile, we present suggestive evidence that military procurement reduced support for parties opposed to Japan's rearmament (and military alliance). Our findings suggest that geopolitical tensions may generate economic opportunities for some countries and influence their domestic political discourse.
     <br><br/></div>
     
