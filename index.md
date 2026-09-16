@@ -44,16 +44,21 @@ with [Weizheng Lai](https://laiwz.github.io/) <br>
            Contemporary public discourse often raises concerns that migration may threaten social stability, fueling support for exclusionary integration policies. We study this issue by estimating the causal effect of China's recent reform of its internal migration institutions on labor unrest (e.g., strikes). Exploiting variation from the reform's population-based discontinuity rule, we find that the reform significantly reduced labor unrest. A key mechanism is migrants' enhanced settlement intentions: to secure the opportunity of settlement offered by the reform, migrants have weaker incentives to engage in unrest. We show that the reform increased the likelihood of migrants remaining in migration destinations, and through a novel causal mediation analysis, we find that enhanced settlement intentions can explain 63 percent of the reform's effect on labor unrest. Moreover, the reform's effect on labor unrest is more pronounced in places where migrants live closer to their origins or are culturally similar to natives, making them more inclined to stay once the reform lowers institutional integration barriers. We find no evidence that the reform changed migrant composition, significantly improved migrants’ wellbeing, or prompted governments to tighten social control.
     <br><br/></div>
 
+3. "Geopolitical Tensions and Economic Opportunity: Evidence from Japan" <br>
+with [Weizheng Lai](https://laiwz.github.io/) <br>
+<small>[ <a href="#/" onclick="visib('japan')">Abstract</a> ]</small>
+
+    <div id="hukou" style="display: none; text-align: left; line-height: 1.5" >
+          Geopolitical tensions may reallocate economic opportunities across countries. We study the economic and political impacts of such shifts, drawing upon the Korean War (1950--1953), one of the most intense geopolitical conflicts in recent history. Using newly digitized data, we show that US military procurement in Japan during the Korean War led to employment growth, labor relocation, and increases in labor productivity in Japan. Meanwhile, we present suggestive evidence that military procurement reduced support for parties opposed to Japan's rearmament (and military alliance). Our findings suggest that geopolitical tensions may generate economic opportunities for some countries and influence their domestic political discourse.
+    <br><br/></div>
+    
 <br>
 
 ## Work in Progress
-1. "Geopolitical Tensions and Economic Opportunity: Evidence from Japan" <br>
-with [Weizheng Lai](https://laiwz.github.io/) <br>
-
-2. "Bureaucratic Quality and Local Industrial Development" <br>
+1. "Bureaucratic Quality and Local Industrial Development" <br>
 with [Muhammad Yasir Khan](https://sites.google.com/view/yasirkhan/home) and [S. K. Ritadhi](https://sites.google.com/view/skritadhi/home) <br>
 
-3.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
+2.  "Representation and Resource Allocation Before and After the 17th Amendment" <br>
 with [Noah Braun](https://sites.google.com/view/noahmckinniebraun), [Paige Montrose](https://paigemontrose.com/), and Lauren Olson <br>
 
 
