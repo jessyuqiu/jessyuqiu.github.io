@@ -13,7 +13,7 @@ title: Teaching
 ## Selected Student Feedback
 
 *From anonymous teaching evaluations.*
-> “it was very well structured in terms of how classes were taught and also the chronology of the course made a lot of sense, each new topic was tied back to previous topics.”
+> “It was very well structured in terms of how classes were taught and also the chronology of the course made a lot of sense, each new topic was tied back to previous topics.”
 
 — Intro Microeconomic Theory, Summer 2025 (Instructor)
 
@@ -29,6 +29,6 @@ title: Teaching
 
 — Intro Microeconomic Theory, Fall 2023 (TA)
 
-> “Yu was thoroughly prepared for each recitation and helped clarify homework problems. She was also patient and helpful when students presented solutions to the class. Very clear explanation that reflects a deep understanding of the material”
+> “Yu was thoroughly prepared for each recitation and helped clarify homework problems. She was also patient and helpful when students presented solutions to the class. Very clear explanation that reflects a deep understanding of the material.”
 
 — Ph.D. Math Camp, Fall 2022 (TA)
