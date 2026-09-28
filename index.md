@@ -24,7 +24,7 @@ The pronunciation of my name can be found [here](https://oluxiwen.github.io/pron
 
 <!--# Research-->
 ## Job Market Paper
-- "Fathers in Offices, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
+- "Fathers in Office, Sons in Jobs: Intergenerational Returns to Local Political Office" <br>
 <small>[ <a href="#/" onclick="visib('office')">Abstract</a> ]</small><br>
 <small style="color: #666;"><i>Presented at:</i> AYEW, AMIE Workshop, BEDI Labor and Development Workshop, Cliometrics Conference (Logan), EUI PEARL Workshop, EALE Conference (Barcelona), EHA Conference (St. Louis)</small>
 
